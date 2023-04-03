@@ -1,5 +1,5 @@
-host: https://INSTANCE-NAME.testrail.io
-username: USERNAME
-password: PASSWORD
-project: PROJECT NAME
+host: https://pulsifiqademo.testrail.io
+username: pulsifi-qa-demo@mailsac.com
+password: MyPassword@001
+project: pulsifi github action
 title: Cypress Automated Test Run (Code-first)
