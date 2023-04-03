@@ -23,7 +23,7 @@ jobs:
           junitparser merge --glob "reports/TEST-*" "reports/junit-report.xml"
           trcli -y \
             -h https://pulsifiqademo.testrail.io/ \
-            --project "pulsifi github actions" \
+            --project "pulsifi github action" \
             -u pulsifi-qa-demo@mailsac.com \
             -p MyPassword@001 \
             parse_junit \
